@@ -1,5 +1,9 @@
 ### こんにちは 👋
 
+- 深層学習の研究をしています
+- NLP, CVに興味があります
+- 卒業論文のソースコード
+- Kaggleアカウント:@moufuyu
 <!--
 **moufuyu/moufuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
