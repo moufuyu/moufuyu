@@ -1,12 +1,12 @@
 ### こんにちは 👋
 
 - 深層学習の研究をしています
-- 株式会社Medi FaceでAIエンジニアをしています
+- [株式会社Medi Face]: https://medi-face.co.jp/ でAIエンジニアをしています
 - NLP, CVに興味があります
 - 卒業論文のソースコード
-- Kaggleアカウント: @moufuyu
+- Kaggleアカウント: [@moufuyu]: https://www.kaggle.com/moufuyu
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moufuyu)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **moufuyu/moufuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
