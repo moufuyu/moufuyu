@@ -1,10 +1,10 @@
 ### こんにちは 👋
 
 - 深層学習の研究をしています
-- [株式会社Medi Face][https://medi-face.co.jp/] でAIエンジニアをしています
+- [株式会社Medi Face](https://medi-face.co.jp/)でAIエンジニアをしています
 - NLP, CVに興味があります
 - 卒業論文のソースコード
-- Kaggleアカウント: [@moufuyu][https://www.kaggle.com/moufuyu]
+- Kaggleアカウント: [@moufuyu](https://www.kaggle.com/moufuyu)
 
 
 <!--
